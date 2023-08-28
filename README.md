@@ -12,6 +12,8 @@ Doxygen-like documented maze.h
 - **3** - goal
 - **4** - path to goal (only in solved maze)
 
+Check maze.txt and result.txt.
+
 ## Possible improvements
 
 - Turn maze to graph and solving graph, instead of holding entire maze in memory
